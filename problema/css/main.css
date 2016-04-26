@@ -1,0 +1,14 @@
+header{background-image: url(../image/large.jpg);background-size: cover; height: 580px;}
+header ul li{color: white;float: right;list-style: none;font-size: 22px;margin: 15px;}
+.active{background-color: rgba(22, 80, 212, 0.45);padding: 20px;width: 100%;}
+.button{border-radius: 5px;border:solid white 2px;color: white;background-color: rgba(22, 80, 212, 0.45);width: 200px;height: 60px;font-size: 22px;text-align: center;margin-left: 30px;}
+h1{color: white;text-align: center;}
+p{color: white;font-size: 18px;display: inline-block;}
+.text{font-size: 50px;text-align: center;}
+.white{background-color: white;}
+.color{color:#22A3C3;text-align: center;}
+.icon-video:before {content: "\e011";border-radius:}
+.icon-clock:before {content: "\e055";}
+.pa{color: #3A3939;}
+h4{color:#3317AB;display:block;}
+@media (min-width: @screen-sm-min 960px) and (max-width: @screen-sm-max 2174px) {}
