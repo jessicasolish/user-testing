@@ -117,4 +117,49 @@ hr {
 display: inline-block;
 margin-left: 50%;
 }
-
+//* comienzo de jessica solis*//
+.testing{
+	color: black;
+}
+.fondoCeleste{
+	background-color:#0890E5;
+}
+.prueba {
+	color: white;
+}
+.obten{
+	color: white;
+}
+.btn{
+display: inline-block;
+margin-left: 70%;
+border-color:white;
+width: 20%;
+height: 20%;
+margin-bottom: 30px;
+color: white;
+background-color:#0890E5;
+font-size: 20px; 
+}
+.pie{
+	background-color: #06060C;
+}
+.text-white{
+	color: white;	
+}
+.tel{
+	color: white;
+}
+.copy{
+	color: white;
+	margin-left: 80%;
+	top: 20%; 
+}
+.icon i{
+	display: inline-block;
+	margin-left: 70%;
+}
+.logo{
+	padding: 20px 0px 20px 0px;
+}
+/*termino de jessica*/
