@@ -1,0 +1,148 @@
+header{background-image: url(../image/large.jpg);background-size: cover; height: 580px;}
+header ul li{color: white;float: left;list-style: none;font-size: 22px;margin: 15px;display: inline;}
+.active{background-color: rgba(22, 80, 212, 0.45);padding: 20px;width: 100%;}
+.button{border-radius: 5px;border:solid white 2px;color: white;background-color: rgba(22, 80, 212, 0.45);width: 200px;height: 60px;font-size: 22px;text-align: center;margin-left: 30px;}
+.h{color: white;text-align: center;}
+.pe{color: white;font-size: 18px;display: inline-block;}
+.text{font-size: 50px;text-align: center;}
+.white{background-color: white;}
+.color{color:#22A3C3;text-align: center;font-size: 50px;}
+.icon-video:before {content: "\e011";color:#22A3C3;font-size: 40px;margin-left: 70px;box-shadow:2px 5px 5px #999;}
+.icon-clock:before {content: "\e055";color:#22A3C3;font-size: 40px;margin-left: 70px;}
+.icon-documents:before {content: "\e006";color:#22A3C3;font-size: 40px;margin-left: 70px;}
+.pa{color: #3A3939;}
+h4{color:#3317AB;display:block;font-size: 30px;margin-left: 15px;}
+.separador{margin-left: 500px;}
+
+.logo-img{
+	width: 220px;
+	
+}
+
+.flecha-img {
+	margin-left: 180px;
+}
+
+.image-img{
+	width: 500px;
+	margin-right: 120px;
+}
+
+.container-p{
+	padding:20px;
+}
+
+.titulo{
+	color:#7dc0ff;
+	margin-left: 30px;
+}
+
+.sec-img{
+	width: 620px;
+	height: 576px;
+	margin-top: 100px;
+	opacity: 0.7;
+}
+
+.titulo2{
+	margin-left: 90px;
+	margin-top: 100px;
+}
+
+.titulo3{
+	color: #7dc0ff;
+	margin-left: -7x;
+	font-size: 18px;
+	padding: 0px;
+	margin-left: 34px;
+	margin-top: -25px;
+}
+
+.cont{
+	margin-left: 50px;
+	margin-top: 110px;
+}
+
+.fa {
+	margin-left: 23px;
+	margin-top: 17px;
+	color: white;
+}
+
+.circle { 
+	width: 80px; 
+	height: 80px; 
+	background: #7dc0ff; 
+	-moz-border-radius: 50px; 
+	-webkit-border-radius: 50px; 
+	border-radius: 50px; 
+	margin-left: -75px;
+} 
+
+.fa-gears {
+	margin-left: 15px;
+	margin-top: 20px;
+}
+
+.fa-magnet{
+	margin-left: 21px;
+	margin-top: 24px;
+}
+
+
+.sep{
+	margin-left: -90px;
+	margin-top: -8px;
+}
+
+hr {
+	height: 2px;
+	background-color:#1c1c1c;
+}
+
+/* comienzo de jessica solis*/
+.testing{
+	color: black;
+}
+.fondoCeleste{
+	background-color:#0890E5;
+}
+.prueba {
+	color: white;
+}
+.obten{
+	color: white;
+}
+.btn{
+display: inline-block;
+margin-left: 70%;
+border-color:white;
+width: 20%;
+height: 20%;
+margin-bottom: 30px;
+color: white;
+background-color:#0890E5;
+font-size: 20px; 
+}
+.pie{
+	background-color: #06060C;
+}
+.text-white{
+	color: white;	
+}
+.tel{
+	color: white;
+}
+.copy{
+	color: white;
+	margin-left: 80%;
+	top: 20%; 
+}
+.icon i{
+	display: inline-block;
+	margin-left: 70%;
+}
+.logo{
+	padding: 20px 0px 20px 0px;
+}
+/*termino de jessica*/
