@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 header{background-image: url(../image/large.jpg);background-size: cover; height: 580px;}
 header ul li{color: white;float: left;list-style: none;font-size: 22px;margin: 15px;display: inline;}
 .active{background-color: rgba(22, 80, 212, 0.45);padding: 20px;width: 100%;}
@@ -16,7 +16,7 @@ h4{color:#3317AB;display:block;font-size: 30px;margin-left: 15px;}
 .separador{margin-left: 500px;}
 @media (min-width: @screen-sm-min 960px) and (max-width: @screen-sm-max 2174px) {}
 
-9.logo-img{
+.logo-img{
 	width: 220px;
 	
 }
@@ -100,6 +100,21 @@ h4{color:#3317AB;display:block;font-size: 30px;margin-left: 15px;}
 hr {
 	height: 2px;
 	background-color:#1c1c1c;
-
+}
+.testing{
+	color: black;
+}
+.fondoCeleste{
+	background-color:#0890E5;
+}
+.prueba {
+	color: white;
+}
+.obten{
+	color: white;
+}
+.btn{
+display: inline-block;
+margin-left: 50%;
 }
 
