@@ -3,8 +3,8 @@ header{background-image: url(../image/large.jpg);background-size: cover; height:
 header ul li{color: white;float: left;list-style: none;font-size: 22px;margin: 15px;display: inline;}
 .active{background-color: rgba(22, 80, 212, 0.45);padding: 20px;width: 100%;}
 .button{border-radius: 5px;border:solid white 2px;color: white;background-color: rgba(22, 80, 212, 0.45);width: 200px;height: 60px;font-size: 22px;text-align: center;margin-left: 30px;}
-h1{color: white;text-align: center;}
-p{color: white;font-size: 18px;display: inline-block;}
+.h{color: white;text-align: center;}
+.pe{color: white;font-size: 18px;display: inline-block;}
 .text{font-size: 50px;text-align: center;}
 .white{background-color: white;}
 .color{color:#22A3C3;text-align: center;font-size: 50px;}
@@ -14,7 +14,6 @@ p{color: white;font-size: 18px;display: inline-block;}
 .pa{color: #3A3939;}
 h4{color:#3317AB;display:block;font-size: 30px;margin-left: 15px;}
 .separador{margin-left: 500px;}
-@media (min-width: @screen-sm-min 960px) and (max-width: @screen-sm-max 2174px) {}
 
 .logo-img{
 	width: 220px;
@@ -30,7 +29,7 @@ h4{color:#3317AB;display:block;font-size: 30px;margin-left: 15px;}
 	margin-right: 120px;
 }
 
-.container{
+.container-p{
 	padding:20px;
 }
 
@@ -101,22 +100,7 @@ hr {
 	height: 2px;
 	background-color:#1c1c1c;
 }
-.testing{
-	color: black;
-}
-.fondoCeleste{
-	background-color:#0890E5;
-}
-.prueba {
-	color: white;
-}
-.obten{
-	color: white;
-}
-.btn{
-display: inline-block;
-margin-left: 50%;
-}
+
 //* comienzo de jessica solis*//
 .testing{
 	color: black;
@@ -162,4 +146,6 @@ font-size: 20px;
 .logo{
 	padding: 20px 0px 20px 0px;
 }
+@media (min-width: @screen-sm-min 378px) and (max-width: @screen-sm-max 2174px) {}
+
 /*termino de jessica*/
